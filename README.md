@@ -176,9 +176,10 @@ La aplicación estará disponible en: `http://localhost:8501`
 ```
 "¿Tienes champús para cabello graso?"
 "quiero una crema de sol para piel grasa"
+"y si te fijas en los compuestos activos, quiero una que no sea muy agresiva y que lleve compuestos naturales"
 "Recomiéndame algo para piel seca"
 "¿Qué productos tienes para el acné?"
-"¿Hay contraindicaciones en este producto?"
+"la de isdin es mejor para hacer deporte? o qué otras opciones hay para cuando vas a hacer deporte al aire libre?"
 ```
 
 ---
