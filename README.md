@@ -1,11 +1,10 @@
 # FarmAssist
 
 <p align="center">
-  <img width="200" height="200" alt="FarmAssist Logo" src="https://github.com/user-attachments/assets/675fa551-a828-41cc-a36a-0b76bad38cd4" />
+   <img src="imagenes/logo.png" alt="logo" height="300"/>
 </p>
-
 <p align="center">
-  <strong>Asistente virtual inteligente para productos de parafarmacia</strong>
+   <strong>Asistente virtual inteligente para productos de parafarmacia</strong>
 </p>
 
 <p align="center">
@@ -186,7 +185,7 @@ La aplicación estará disponible en: `http://localhost:8501`
 
 ## Capturas de Pantalla
 
-![captura-vista-chat.png](captura-vista-chat.png)
+![captura-vista-chat.png](imagenes/captura-vista-chat.png)
 
 ---
 
